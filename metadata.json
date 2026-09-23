@@ -1,0 +1,6 @@
+{
+  "name": "SoundWave - Premium Hi-Fi Audio Streaming",
+  "description": "Immersive dark-mode Hi-Fi audio streaming platform with high-contrast editorial curation and dynamic playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
